@@ -56,5 +56,9 @@
       "packages/*"
     ]
   },
-  "repository": "https://github.com/daily-you/daily-you"
+  "repository": "https://github.com/daily-you/daily-you",
+  "dependencies": {
+    "@size-limit/preset-big-lib": "^8.2.4",
+    "size-limit": "^8.2.4"
+  }
 }
