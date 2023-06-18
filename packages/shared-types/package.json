@@ -1,6 +1,6 @@
 {
   "name": "@daily-you/shared-types",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/daily-you-shared-types.cjs.js",
   "module": "dist/daily-you-shared-types.esm.js",
