@@ -36,6 +36,7 @@ export interface UserAccountStatus {
   status: string;
   reason?: string;
   since?: Date;
+  onboardingCompleted: boolean;
 }
 
 export enum UserAccountStatusType {
